@@ -17,9 +17,9 @@ http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.h
   - on the left side setup SDK
     - if there is nothing in dropdown menu - click on New button to create new SDK
     - point to installed Java JDK
-  - set up 'Groovy library' - serach it under hidden folder '.sdkman'
+  - set up 'Groovy library' - search it under hidden folder '.sdkman/candidates/groovy/current/'
   (To make hidden folders visible press 'CMD + SHIFT + .')
-  - The las step is to give a name to the project and provide a path
+  - The last step is to give a name to the project and provide a path
 
 ## Convert project to Maven project
 
